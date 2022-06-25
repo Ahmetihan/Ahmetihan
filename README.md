@@ -6,4 +6,3 @@
 ## Amacim yazilimci olmak
 
 **Ben bir ogrenciyim ve html css js html5 css3 ogreniyorum** <br/>
-
